@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saveriodinapoli19" alt="saveriodinapoli19" /></a> </p>
 
-- 🔭 I’m currently working on [Car-Dealer](https://github.com/develhope/Java18-Team3-Dealer)
-
 - 🌱 I’m currently learning **Spring Boot**
 
 - 👯 I’m looking to collaborate on [Wharehouse](https://github.com/Gruppo-3-develhope/Warehouse/tree/develop/src)
