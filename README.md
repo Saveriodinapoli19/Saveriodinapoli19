@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saveriodinapoli19" alt="saveriodinapoli19" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **HTML, CSS,Javascript and React**
 
 - 👯 I’m looking to collaborate on [Wharehouse](https://github.com/Gruppo-3-develhope/Warehouse/tree/develop/src)
 
